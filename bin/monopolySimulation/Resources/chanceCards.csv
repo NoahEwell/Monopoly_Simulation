@@ -1,0 +1,17 @@
+﻿ID,Moves,MovesToName,MovesToPosition
+1,TRUE,Boardwalk,39
+2,TRUE,Go,0
+3,TRUE,Illinois Ave,24
+4,TRUE,St. Charles Place,11
+5,TRUE,Nearest Railroad,-1
+6,TRUE,Nearest Railroad,-1
+7,TRUE,Nearest Utility,-2
+8,FALSE,null,-4
+9,TRUE,Get Out of Jail Free,-4
+10,TRUE,Go Back Three,-3
+11,TRUE,Jail,10
+12,FALSE,null,-4
+13,FALSE,null,-4
+14,TRUE,Reading Railroad,5
+15,FALSE,null,-4
+16,FALSE,null,-4

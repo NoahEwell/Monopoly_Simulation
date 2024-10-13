@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * A die that will roll a random number in range [1, <code>diceSides</code>]
  * 
- * @author Colton Anderson + Noah Ewell + Phuon Tran + Ryley Pabst
+ * @author Noah Ewell + Ryley Pabst
  */
 public class Dice {
 	

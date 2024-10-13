@@ -4,7 +4,7 @@ package monopolySimulation;
  * Represents an instance of a property in monopoly, containing its location number, name,
  * and the number of times the space has been landed on.
  * 
- * @author Colton Anderson + Noah Ewell + Phuon Tran + Ryley Pabst
+ * @author Noah Ewell
  */
 public class Property {
 	

@@ -15,7 +15,7 @@ import edu.princeton.cs.algs4.StdOut;
  * a deck of chance cards. Contains methods to manipulate cards inside of a deck
  * using the stack data structure from algs4.
  * 
- * @author Colton Anderson + Noah Ewell + Phuon Tran + Ryley Pabst
+ * @author Noah Ewell
  */
 public class Deck {
 	

@@ -1,0 +1,17 @@
+﻿ID,Moves,MovesToName,MovesToPosition
+1,TRUE,Go,0
+2,FALSE,null,-1
+3,FALSE,null,-1
+4,FALSE,null,-1
+5,TRUE,Get Out of Jail Free,-1
+6,TRUE,Jail,10
+7,FALSE,null,-1
+8,FALSE,null,-1
+9,FALSE,null,-1
+10,FALSE,null,-1
+11,FALSE,null,-1
+12,FALSE,null,-1
+13,FALSE,null,-1
+14,FALSE,null,-1
+15,FALSE,null,-1
+16,FALSE,null,-1

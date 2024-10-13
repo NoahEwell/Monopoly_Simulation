@@ -13,7 +13,7 @@ import edu.princeton.cs.algs4.RedBlackBST;
  * doubles or be released after 3 attempts. Percentages are calculated for each of these visits. Results are 
  * printed to a "results.txt" file in the resources folder.
  * 
- * @author Colton Anderson + Noah Ewell + Phuon Tran + Ryley Pabst
+ * @author Noah Ewell
  */
 public class MonopolyApp {
 	

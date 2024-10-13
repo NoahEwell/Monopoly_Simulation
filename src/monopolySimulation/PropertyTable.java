@@ -13,7 +13,7 @@ import edu.princeton.cs.algs4.StdOut;
  * Reads in properties from a .csv file and stores them in a RedBlackBST symbol table
  * using data structures from algs4.
  * 
- * @author Colton Anderson + Noah Ewell + Phuon Tran + Ryley Pabst
+ * @author Noah Ewell
  */
 public class PropertyTable {
 	

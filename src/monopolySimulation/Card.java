@@ -7,7 +7,7 @@ package monopolySimulation;
  * the card moves to <code>movesToName</code>, and the position of where it moves <code>
  * movesToPosition</code>.
  * 
- * @author Colton Anderson + Noah Ewell + Phuon Tran + Ryley Pabst
+ * @author Noah Ewell
  */
 public class Card {
 
